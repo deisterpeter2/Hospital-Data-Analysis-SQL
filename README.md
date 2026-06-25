@@ -32,3 +32,9 @@ Example Business Questions Answered
 -- Which physicians handled the highest patient volume?
 -- What were the monthly admission trends?
 -- Which departments generated the highest revenue?
+
+Files included:
+-- Hospital_Create_Table.sql (Queries used to create tables)
+-- Hospital_Data_Cleaning.sql (Queries used to clean data)
+-- Hospital_Data_Analysis.sql (Queries used to analyze data)
+-- Hospital_Insert_PatientVisits_Data.sql, Hospital_Insert_Patient_Doctors_Data.sql, Hospital_Insert_Dept_Treatment_Diagnosis_PayMethod_Data.sql (Queries used to load data)
